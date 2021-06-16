@@ -1,0 +1,1 @@
+java --module-path "C:\Users\ratti\OneDrive\Documents\java lib\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar Game_Project.jar
